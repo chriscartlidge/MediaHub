@@ -13,6 +13,7 @@
     "serve-favicon": "~2.2.0",
     "debug": "~2.1.1",
     "jade": "~1.8.2",
-    "node-compass": "0.2.3"
+    "node-compass": "0.2.3",
+    "multer": "0.1.6"
   }
 }
